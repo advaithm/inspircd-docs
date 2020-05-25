@@ -32,7 +32,7 @@ Once you have dependencies installed you need to download the source code. You c
 
 #### Release Tarball
 
-To download the most recent release tarball you will need to have a download tool such as cURL or Wget installed. You can install one of these from your system's package manager. Once you have a download tool installed you can download the most recent release tarball from [the releases page](https://github.com/inspircd/inspircd/releases/latest).
+To download the most recent release tarball you will need to have a download tool such as cURL or Wget installed. You can install one of these from your system's package manager. Once you have a download tool installed you can download the most recent release tarball from [the releases page](https://github.com/inspircd/inspircd/releases/tag/v3.6.0).
 
 ```sh
 # You can replace `wget` with `curl --remote-name` if using cURL.
